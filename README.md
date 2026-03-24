@@ -1,4 +1,4 @@
-<img width="511" height="417" alt="Shapes_prediction" src="https://github.com/user-attachments/assets/a2be79e2-3b64-48de-9176-a582bc2a07f0" />## 🔗 Live Demo
+## 🔗 Live Demo
 Coming soon...
 
 # 🌸 Iris & Shapes Classifier Web App
@@ -43,11 +43,11 @@ http://127.0.0.1:5000/
 * REST API with OpenAPI specification
 
 ## 📸 Demo
-<img width="515" height="367" alt="Screenshot 2026-03-24 101425" src="https://github.com/user-attachments/assets/9edc9d38-9eb8-410c-93a3-8cc6ceb9a2f5" />
-<img width="512" height="388" alt="creenshot 2026-03-24 101609" src="https://github.com/user-attachments/assets/e0994fd2-f754-421c-8d47-5b82738468a0" />
+<img width="485" height="361" alt="Screenshot 2026-03-24 101425" src="https://github.com/user-attachments/assets/9edc9d38-9eb8-410c-93a3-8cc6ceb9a2f5" />
+<img width="485" height="361" alt="creenshot 2026-03-24 101609" src="https://github.com/user-attachments/assets/e0994fd2-f754-421c-8d47-5b82738468a0" />
 <img width="485" height="361" alt="Iris-prediction" src="https://github.com/user-attachments/assets/bcfcf62c-f569-4867-b590-73413c2483b8" />
-<img width="1017" height="770" alt="Screenshot 2026-03-24 101729" src="https://github.com/user-attachments/assets/e43954e7-dcb0-4e46-8e87-8d02d8effebc" />
-<img width="511" height="417" alt="Shapes_prediction" src="https://github.com/user-attachments/assets/2b52780b-0cca-42e3-858d-36db0b343cec" />
+<img width="485" height="361" alt="Screenshot 2026-03-24 101729" src="https://github.com/user-attachments/assets/e43954e7-dcb0-4e46-8e87-8d02d8effebc" />
+<img width="485" height="361" alt="Shapes_prediction" src="https://github.com/user-attachments/assets/2b52780b-0cca-42e3-858d-36db0b343cec" />
 
 ## 👨‍💻 Author
 Dhivya Jayakumar
