@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iris Prediction Result</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #36d1dc, #5b86e5);
+            margin: 0;
+        }
+
+        .container {
+            max-width: 500px;
+            margin: 60px auto;
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        td {
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .label {
+            font-weight: bold;
+        }
+
+        .prediction {
+            text-align: center;
+            font-size: 18px;
+            font-weight: bold;
+            color: #4CAF50;
+            padding-top: 15px;
+        }
+
+        .back-btn {
+            display: block;
+            margin: 20px auto 0;
+            padding: 10px 20px;
+            text-align: center;
+            background: #5b86e5;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+        }
+
+        .back-btn:hover {
+            opacity: 0.9;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+    <h1>Iris Prediction Result</h1>
+
+    <table>
+        <tr>
+            <td class="label">Sepal Length</td>
+            <td>{{ sepal_length }}</td>
+        </tr>
+        <tr>
+            <td class="label">Sepal Width</td>
+            <td>{{ sepal_width }}</td>
+        </tr>
+        <tr>
+            <td class="label">Petal Length</td>
+            <td>{{ petal_length }}</td>
+        </tr>
+        <tr>
+            <td class="label">Petal Width</td>
+            <td>{{ petal_width }}</td>
+        </tr>
+    </table>
+
+    <div class="prediction">
+        Prediction: {{ prediction }}
+    </div>
+
+    <a href="/" class="back-btn">⬅ Back</a>
+</div>
+
+</body>
+</html>
